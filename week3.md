@@ -1,4 +1,6 @@
-# Project Overview
+# Week 3 – User Management and File Permissions
+
+# Overview
 
 The objective of Week 3 was to identify appropriate applications that represent different workload types for performance testing. These applications will be used subsequently for analysis purposes related to the behaviour of the operating system with varied workloads including CPU saturation, Memory, Disk I/O Operations, Network Activity, and Server Workloads.
 
